@@ -1,0 +1,17 @@
+h1{
+    text-align:right;
+    color: fuchsia;
+}
+h3{ 
+    text-align: center;
+    color:fuchsia;
+}
+
+}
+div{
+    margin-left:20px;
+    border: 5px solid red;
+    padding-bottom:15px;
+    height:200px;
+    width: 100%;
+}
